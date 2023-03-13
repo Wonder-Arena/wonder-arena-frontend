@@ -12,11 +12,11 @@ const TeamMemberWrapper = styled.div`
 	flex-direction: column;
 	align-items: center;
 	margin-bottom: 2rem;
-	max-width: 20rem;
 	background-color: #fff;
 	box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.175);
 	border-radius: 0.5rem;
 	transition: transform 0.2s ease-in-out;
+	padding-top: 20px;
 
 	&:hover {
 		transform: translateY(-0.25rem);
@@ -29,6 +29,9 @@ const TeamMemberWrapper = styled.div`
 		& > * {
 			margin: 0 0.5rem;
 		}
+
+		max-width: 20rem;
+		padding: 10px;
 	}
 `;
 
@@ -38,7 +41,9 @@ const ImageWrapper = styled.div`
 	// height: 10rem;
 	border-radius: 50%;
 	overflow: hidden;
-	margin-bottom: 1rem;
+	@media screen and (min-width: 768px) {
+		margin-bottom: 1rem;
+	}
 `;
 
 const TextWrapper = styled.div`
@@ -101,8 +106,18 @@ const ImageOverlay = styled.div`
 
 const TeamMembers = styled.div`
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	gap: 20px;
+	width: 100%;
+	justify-content: center;
+	max-width: 300px;
+
+	flex-wrap: wrap;
+	@media screen and (min-width: 768px) {
+		flex-direction: row;
+		width: auto;
+		max-width: 100%;
+	}
 `;
 
 const InfoWrapper = styled.div`
