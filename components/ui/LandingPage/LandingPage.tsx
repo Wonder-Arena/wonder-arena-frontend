@@ -81,11 +81,11 @@ const LandingPage = () => {
 			<InfoWrapper>
 				<h1>Welcome to Wonder Arena</h1>
 				<p>
-					Wonder Arena is an on-chain auto battler game built on the
-					Flow blockchain that offers a unique and exciting gaming
-					experience. Our game features an engaging collection of
-					beast creatures and innovative on-chain mechanics that make
-					it stand out from traditional games.
+					Wonder Arena is an NFT gaming platform with a vision to
+					create a seamless and accessible gaming experience for
+					mainstream audiences. It offers a walletless onboarding
+					approach and a unique rewards system, allowing users to
+					build their own NFT-based games.
 				</p>
 				<h2>Meet the Team</h2>
 			</InfoWrapper>
