@@ -31,7 +31,7 @@ const teamMembers: TeamMember[] = [
 		github: 'https://github.com/LanfordCai',
 		twitter: 'https://twitter.com/33_labs',
 		profileImage:
-			'https://pbs.twimg.com/profile_images/1595726147995992064/x-_J9YHM_400x400.png',
+			'https://pbs.twimg.com/profile_images/1595724561663725569/Ka2TmvoU_400x400.jpg',
 	},
 	{
 		name: 'bz',
