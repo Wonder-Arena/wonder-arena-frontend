@@ -58,7 +58,16 @@ const teamMembers: TeamMember[] = [
 		github: 'https://github.com/williblue',
 		twitter: 'https://twitter.com/williblueblue',
 		profileImage:
-			'https://pbs.twimg.com/profile_images/1624849321987395586/3tEV09Hr_400x400.png',
+			'https://pbs.twimg.com/profile_images/1640592211682242560/Ls9rcMv6_400x400.jpg',
+	},
+	{
+		name: 'swt',
+		discord: 'swt#9498',
+		role: 'Head of Merch',
+		github: 'https://github.com/aNamilee',
+		twitter: 'https://twitter.com/swt_anamilee',
+		profileImage:
+			'https://pbs.twimg.com/profile_images/1548909551621218304/aNW6Lr7Q_400x400.jpg',
 	},
 ];
 
