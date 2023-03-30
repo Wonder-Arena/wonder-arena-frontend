@@ -24,14 +24,31 @@ interface TeamMember {
 }
 
 const teamMembers: TeamMember[] = [
+	// {
+	// 	name: 'Lanford',
+	// 	discord: 'lanford33#2178',
+	// 	role: 'Tech Lead',
+	// 	github: 'https://github.com/LanfordCai',
+	// 	twitter: 'https://twitter.com/33_labs',
+	// 	profileImage:
+	// 		'https://pbs.twimg.com/profile_images/1595724561663725569/Ka2TmvoU_400x400.jpg',
+	// },
+	// {
+	// 	name: 'bz',
+	// 	discord: 'bz#0780',
+	// 	role: 'Product Lead',
+	// 	github: 'https://github.com/bz-hashtag-0780',
+	// 	twitter: 'https://twitter.com/bz_bbclub',
+	// 	profileImage:
+	// 		'https://pbs.twimg.com/profile_images/1422488690840977416/KW-bJB5__400x400.png',
+	// },
 	{
 		name: 'Lanford',
 		discord: 'lanford33#2178',
 		role: 'Tech Lead',
 		github: 'https://github.com/LanfordCai',
 		twitter: 'https://twitter.com/33_labs',
-		profileImage:
-			'https://pbs.twimg.com/profile_images/1595724561663725569/Ka2TmvoU_400x400.jpg',
+		profileImage: 'https://i.imgur.com/puv5ell.png',
 	},
 	{
 		name: 'bz',
@@ -39,8 +56,7 @@ const teamMembers: TeamMember[] = [
 		role: 'Product Lead',
 		github: 'https://github.com/bz-hashtag-0780',
 		twitter: 'https://twitter.com/bz_bbclub',
-		profileImage:
-			'https://pbs.twimg.com/profile_images/1422488690840977416/KW-bJB5__400x400.png',
+		profileImage: 'https://i.imgur.com/4WwFRdY.png',
 	},
 	{
 		name: 'Suurikat',
