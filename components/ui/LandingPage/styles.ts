@@ -116,7 +116,7 @@ const TeamMembers = styled.div`
 	@media screen and (min-width: 768px) {
 		flex-direction: row;
 		width: auto;
-		max-width: 100%;
+		max-width: 60%;
 	}
 `;
 
