@@ -48,8 +48,7 @@ const teamMembers: TeamMember[] = [
 		role: 'Game Lead',
 		github: 'https://github.com/SuuriKat',
 		twitter: 'https://twitter.com/SuuriKat',
-		profileImage:
-			'https://pbs.twimg.com/profile_images/1484224808976068610/0nv3FGRZ_400x400.jpg',
+		profileImage: 'https://i.imgur.com/KNeODj7.png',
 	},
 	{
 		name: 'williblue',
